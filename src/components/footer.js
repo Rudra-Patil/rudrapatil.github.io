@@ -91,7 +91,7 @@ const Footer = () => {
 
   return (
     <StyledFooter>
-      <StyledSocialLinks>
+      {/* <StyledSocialLinks>
         <ul>
           {socialMedia &&
             socialMedia.map(({ name, url }, i) => (
@@ -121,7 +121,7 @@ const Footer = () => {
             </div>
           )}
         </a>
-      </StyledCredit>
+      </StyledCredit> */}
     </StyledFooter>
   );
 };
