@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://rudrapatil.github.io/sitemap-index.xml
+Host: https://rudrapatil.github.io
