@@ -1,5 +1,6 @@
 module.exports = {
   email: 'rudrapatil1@gmail.com',
+  siteUrl: 'https://rudrapatil.github.io',
 
   socialMedia: [
     {
